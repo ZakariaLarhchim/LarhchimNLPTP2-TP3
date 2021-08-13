@@ -18,4 +18,4 @@ Translation: translate a text in another language.
 Feature extraction: return a tensor representation of the text. Let's see how this work for sentiment analysis
 
 
-<img src="TRANS.jpeg" alt="transformers" width="500" height="600">
+<img src="TRANS.PNG" alt="transformers" width="500" height="600">
